@@ -1,9 +1,9 @@
 #Don't be a thief by stealing other's Hardwork, it took time and effort to make this repo.
 #Respect my work by not making any changes here.
 
-START_TEXT = "Send me any file to begin."
+START_TEXT = "Send me any file to begin./n/n This Bot Is Madr By @ToonEncodes"
 
-FORCE_SUB_TEXT = "In order to use this bot, you've to join my parent channel."
+FORCE_SUB_TEXT = "In order to use this bot, you've to join my Main Channel."
 
 CHANNEL_LINK = "https://t.me/ToonEncodes"
 
